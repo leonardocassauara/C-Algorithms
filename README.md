@@ -1,8 +1,6 @@
 <h1>
 <div style="font-size: 24px;">
-    <a href="https://www.dio.me/">
-        <img align="center" width="30px" src="https://i.imgur.com/7ruJ9iO.png">
-    </a>
+    <img align="center" width="30px" src="https://i.imgur.com/7ruJ9iO.png">
     <span>Repositório de Códigos em C</span>
 </div>
 </h1>
