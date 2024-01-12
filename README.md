@@ -1,7 +1,7 @@
 <h1>
 <div style="font-size: 24px;">
     <img align="center" width="30px" src="https://i.imgur.com/7ruJ9iO.png">
-    Repositório de Códigos em C
+    C Algorithms
 </div>
 </h1>
 
